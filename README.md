@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Avinash Rouniyar</h1>
 <h3 align="center">A passionate Front-End Developer and Graphics Designer and currently learning Python Django to become a Full-Stack Developer.</h3>
+<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaviinash&label=Profile%20views&color=0e75b6&style=flat" alt="imaviinash" /> </p>
 
