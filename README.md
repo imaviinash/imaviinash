@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python Django**
 
-- 👨‍💻 All of my projects are available at [github.com/imaviinash](github.com./imaviinash)
+- 👨‍💻 All of my projects are available at [https://github.com/imaviinash?tab=repositories](https://github.com/imaviinash?tab=repositories)
 
 - 💬 Ask me about **Front-End Development, Graphics Design, Video Editing, Technology**
 
