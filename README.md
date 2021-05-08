@@ -14,6 +14,7 @@
 - 📫 How to reach me **www.avinashrouniyar.com@gmail.com**
 
 - ⚡ Fun fact **I have a YouTube channel naming: Geeks Redefined (Tech Channel) and Avinash Rouniyar (Vlog Channel)**
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +28,7 @@
 <a href="https://www.behance.net/avinashrouniyar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/behance.svg" alt="avinashrouniyar" height="40" width="40" /></a>&nbsp;
 <a href="https://stackoverflow.com/users/15201867/avinash-rouniyar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/stackoverflow.svg" alt="imaviinash" height="40" width="40" /></a>
 </p>
+<br>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -44,6 +46,7 @@
 <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>&nbsp;
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+<br>
 
 <div class = "row">
 <div class = "col-md-6">
