@@ -47,10 +47,10 @@
 
 <div class = "row">
 <div class = "col-md-6">
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=imaviinash&show_icons=true&locale=en&layout=compact" alt="imaviinash" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=imaviinash&show_icons=true&locale=en&layout=compact" alt="imaviinash" />
 </div>
 <div class = "col-md-6">
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=imaviinash&show_icons=true&locale=en" alt="imaviinash" /></p>
+<img src="https://github-readme-stats.vercel.app/api?username=imaviinash&show_icons=true&locale=en" alt="imaviinash" />
 </div>
 </div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imaviinash&" alt="imaviinash" /></p>
