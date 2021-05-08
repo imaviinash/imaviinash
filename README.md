@@ -45,9 +45,13 @@
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+<div class = "row">
+<div class = "col-md-6">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imaviinash&show_icons=true&locale=en&layout=compact" alt="imaviinash" /></p>
-
+</div>
+<div class = "col-md-6">
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=imaviinash&show_icons=true&locale=en" alt="imaviinash" /></p>
-
+</div>
+</div>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imaviinash&" alt="imaviinash" /></p>
 
