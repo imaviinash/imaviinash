@@ -49,10 +49,6 @@
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 <br>
 
-<h3 align="left">Playing Spotify</h3>
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="imaviinash's Spotify Playing" width="350" />](https://open.spotify.com/user/	31tmq7cw2g74ygiq2rqatsxirdfi)
-<br>
-
 <div class = "row">
 <div class = "col-md-6">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=imaviinash&show_icons=true&locale=en&layout=compact" alt="imaviinash" />
