@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/imaviinash" target="_blank"><img align="center" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/linkedin.svg" alt="imaviinash" height="40" width="40" /></a>&nbsp;
+<a href="https://linkedin.com/in/imaviinash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/linkedin.svg" alt="imaviinash" height="40" width="40" /></a>&nbsp;
 <a href="https://twitter.com/imaviinash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/twitter.svg" alt="imaviinash" height="40" width="40" /></a>&nbsp;
 <a href="https://instagram.com/imaviinash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/instagram.svg" alt="imaviinash" height="40" width="40" /></a>&nbsp;
  <a href="https://facebook.com/imaviinash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/facebook.svg" alt="imaviinash" height="40" width="40" /></a>&nbsp;
