@@ -6,15 +6,15 @@
 
 <p align="left"> <a href="https://twitter.com/imaviinash" target="blank"><img src="https://img.shields.io/twitter/follow/imaviinash?logo=twitter&style=for-the-badge" alt="imaviinash" /></a> </p>
 
-- 🌱 I’m currently learning **Digital Marketing**
+- 🌱 I’m currently learning **Digital Marketing.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imaviinash?tab=repositories](https://github.com/imaviinash?tab=repositories)
 
-- 💬 Ask me about **Web Development, Graphics Design, Digital Marketing, Video Editing & Technology**
+- 💬 Ask me about **Web Development, Graphics Design, Digital Marketing, Video Editing & Technology.**
 
 - 📫 How to reach me **www.avinashrouniyar.com@gmail.com**
 
-- ⚡ Fun fact **I have a YouTube channel named: Geeks Redefined (Tech Channel) and Avinash Rouniyar Vlogs (Vlog Channel)**
+- ⚡ Fun fact **I have a YouTube channel named: Geeks Redefined (Tech Channel) and Avinash Rouniyar Vlogs (Vlog Channel).**
 <br>
 
 <h3 align="left">Connect with me:</h3>
