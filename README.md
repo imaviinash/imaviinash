@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Avinash Rouniyar</h1>
-<h3 align="center">A passionate Front-End Developer and Graphics Designer and currently learning Python Django to become a Full-Stack Developer.</h3>
+<h3 align="center">A passionate Graphics Designer, Web Developer and Video Editor currently learning Digital Marketing.</h3>
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaviinash&label=Profile%20views&color=0e75b6&style=flat" alt="imaviinash" /> </p>
 
 <p align="left"> <a href="https://twitter.com/imaviinash" target="blank"><img src="https://img.shields.io/twitter/follow/imaviinash?logo=twitter&style=for-the-badge" alt="imaviinash" /></a> </p>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Digital Marketing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/imaviinash?tab=repositories](https://github.com/imaviinash?tab=repositories)
 
-- 💬 Ask me about **Front-End Development, Graphics Design, Video Editing, Technology**
+- 💬 Ask me about **Web Development, Graphics Design, Digital Marketing, Video Editing & Technology**
 
 - 📫 How to reach me **www.avinashrouniyar.com@gmail.com**
 
-- ⚡ Fun fact **I have a YouTube channel naming: Geeks Redefined (Tech Channel) and Avinash Rouniyar (Vlog Channel)**
+- ⚡ Fun fact **I have a YouTube channel named: Geeks Redefined (Tech Channel) and Avinash Rouniyar Vlogs (Vlog Channel)**
 <br>
 
 <h3 align="left">Connect with me:</h3>
