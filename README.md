@@ -24,7 +24,7 @@
 <a href="https://instagram.com/imaviinash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/instagram.svg" alt="imaviinash" height="40" width="40" /></a>&nbsp;
  <a href="https://facebook.com/imaviinash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/facebook.svg" alt="imaviinash" height="40" width="40" /></a>&nbsp;
 <a href="https://discord.io/imaviinash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/discord.svg" alt="imaviinash" height="40" width="40" /></a>&nbsp;
-<a href="https://www.youtube.com/c/GeeksRedefined" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/youtube.svg" alt="geeks redefined" height="40" width="40" /></a>&nbsp;
+<a href="https://www.youtube.com/c/AvinashRouniyarVlogs" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/youtube.svg" alt="geeks redefined" height="40" width="40" /></a>&nbsp;
 <a href="https://dribbble.com/imaviinash" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/dribbble.svg" alt="imaviinash" height="40" width="40" /></a>&nbsp;
 <a href="https://www.behance.net/avinashrouniyar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/behance.svg" alt="avinashrouniyar" height="40" width="40" /></a>&nbsp;
 <a href="https://stackoverflow.com/users/15201867/avinash-rouniyar" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.22.0/icons/stackoverflow.svg" alt="imaviinash" height="40" width="40" /></a>
