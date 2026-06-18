@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imaviinash&label=Profile%20views&color=0e75b6&style=flat" alt="imaviinash" /> </p>
 
-<p align="left"> <a href="https://twitter.com/imaviinash" target="blank"><img src="https://img.shields.io/twitter/follow/imaviinash?logo=twitter&style=for-the-badge" alt="imaviinash" /></a> </p>
+<p align="left"> <a href="https://x.com/imaviinash" target="blank"><img src="https://img.shields.io/twitter/follow/imaviinash?logo=twitter&style=for-the-badge" alt="imaviinash" /></a> </p>
 
 - 🌱 I’m currently learning **Digital Marketing.**
 
